@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# Build output
+.next/
+dist/
+build/
+out/
+
+# OS / editor cruft
+.DS_Store
+*.log
+.vscode/
+.idea/
