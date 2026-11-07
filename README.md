@@ -132,6 +132,7 @@ This list does the curation work for you — so you can spend time building, not
 | [LangChain Tools](https://python.langchain.com/docs/modules/agents/tools/) | Docs | 100+ pre-built tools |
 | [Composio](https://github.com/ComposioHQ/composio) | Framework | 250+ managed tool integrations for agents |
 | [Browser Use](https://github.com/browser-use/browser-use) | Tool | Give your agent a real browser |
+| [agent-qa](https://vostride.com) | Tool | Local MCP tools for plain-English web, Android and iOS tests, with persistent memidex memory and validated self-improvement |
 
 ### 🔁 Orchestration & Planning
 
