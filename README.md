@@ -94,6 +94,7 @@ This list does the curation work for you — so you can spend time building, not
 | [BabyAGI](https://github.com/yoheinakajima/babyagi) | 20k+ ⭐ | The original task-driven autonomous agent | Python |
 | [SuperAGI](https://github.com/TransformerOptimus/SuperAGI) | 15k+ ⭐ | Open-source autonomous AI agent framework | Python |
 | [Haystack](https://github.com/deepset-ai/haystack) | 18k+ ⭐ | NLP + RAG + agent pipelines | Python |
+| [LightAgent](https://github.com/wanxingai/LightAgent) | ~1.2k ⭐ | Tools, memory, MCP, checkpointed workflows, and verified dynamic DAGs | Python |
 | [Flowise](https://github.com/FlowiseAI/Flowise) | 30k+ ⭐ | Drag-and-drop LLM flow builder | JavaScript |
 | [n8n](https://github.com/n8n-io/n8n) | 50k+ ⭐ | Workflow automation with native AI | TypeScript |
 
