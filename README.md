@@ -360,6 +360,7 @@ User Query → Query Rewriter → Vector Search → Context Assembly → LLM →
 | [Perplexica](https://github.com/ItzCrazyKns/Perplexica) | 14k+ ⭐ | Open-source Perplexity AI clone |
 | [Open Interpreter](https://github.com/KillianLucas/open-interpreter) | 55k+ ⭐ | Run code locally with a natural language interface |
 | [Khoj](https://github.com/khoj-ai/khoj) | 14k+ ⭐ | Personal AI with web + document memory |
+| [Orbi](https://github.com/orbi-build/orbi) | ![GitHub stars](https://img.shields.io/github/stars/orbi-build/orbi?style=flat) | Self-hostable coding agent: labeled GitHub issues to isolated implementation, independent acceptance review and gated PR merge. [Website](https://orbi.build/?ref=dir-aredwan-xyz-awesome-agents). |
 
 ---
 
